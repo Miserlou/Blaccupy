@@ -1,7 +1,6 @@
 ![readme](http://i.imgur.com/s35io.png)
 
-Include this on your own website: 
-
-<script type="text/javascript" src="https://github.com/Miserlou/Blaccupy/raw/master/blaccupy.js"></script>
+Please include this on your own website on January 18th!:
+https://gist.github.com/1599361
 
 (patches welcome!)

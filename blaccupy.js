@@ -1,4 +1,4 @@
-// fork me, please! http://github.com/Miserlou/
+// Rich Jones of Gun.io, public domain. Fork me, please! http://github.com/Miserlou/
 $(document).ready(function() {
 		$('body').css('background', '#000000');
 		$('body').css('text-align', 'center');
